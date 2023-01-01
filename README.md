@@ -2,6 +2,7 @@
 Javascript Gummybear & Snow animation
 
 [![alt text](https://cmiscm.github.io/wave/screenshot/wave.jpg)](http://cmiscm.github.com/wave/)
+![gummybear](https://user-images.githubusercontent.com/103271836/210167281-d1a19274-6e92-48c9-b745-034ab6ea08c3.gif)
 
  
 ### Example
