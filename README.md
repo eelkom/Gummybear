@@ -1,2 +1,2 @@
 # gummybear
-Javascript Gummybear animation
+Javascript Gummybear & Snow animation
