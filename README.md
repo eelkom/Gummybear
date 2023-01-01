@@ -1,4 +1,4 @@
-# gummybear
+# Gummybear
 Javascript Gummybear & Snow animation
 
 ### Example
