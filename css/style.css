@@ -1,0 +1,60 @@
+html {
+    background-color: black;
+    overflow: hidden;
+}
+
+@keyframes fall_bear {
+    0% {
+        opacity: 0;
+    }
+    30% {
+        opacity: 1;
+    }
+    100% {
+        transform : translate3d(0, 100vh, 0);
+        opacity: 0;
+    }
+}
+
+@keyframes fall_snow {
+    from {
+
+    }
+    to {
+        transform : translate3d(0, 100vh, 0);
+        opacity: 0;
+    }
+}
+
+.title {
+    /* position: relative; */
+    /* z-index: 10; */
+    text-align: center;
+    color: green;
+    padding-top: 40vh;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.gummybear {
+    height: 80px;
+    width: 130px;
+    border-radius: 50%;
+    /* background-color:white; */
+
+    position: absolute;
+    top: -80px;
+
+    /* animation: fall 10s linear; */
+}
+
+.snowflake {
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: white;
+
+    position: absolute;
+    top: -8px;
+
+}
